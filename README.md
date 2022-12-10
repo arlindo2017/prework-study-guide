@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+In this guide you will find some of the notes for the bootcamp.
 
 - Excited to learn how to become a developer
 - By building this website I was able to learn some of the basics of creating a website
