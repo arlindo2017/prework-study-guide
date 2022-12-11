@@ -1,12 +1,15 @@
-# <Prework Study Guide>
+# <Bootcamp Prework Study Guide>
 
 ## Description
 
-In this guide you will find some of the notes for the bootcamp.
+This guide can be used as a repository for notes and processes of creating websites.
 
-- Excited to learn how to become a developer
+## Who can benefit from this guide
+
+- New developer
 - By building this website I was able to learn some of the basics of creating a website
 - Learned how to write HTML, CSS and Javascript
+- Understand the process of introducing new code in small batches often using Github Pull requests
 
 ## Installation
 
@@ -14,7 +17,8 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+In this prework study guide you can find notes, ideas and concepts on how to build and deploy a website using Github repositories and Github pages.
+Topics are broken down in different areas for ease of access.
 
 ## Credits
 
@@ -22,4 +26,4 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Please refer to the LICENSE in the repository.
